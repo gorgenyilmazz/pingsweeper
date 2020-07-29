@@ -1,5 +1,5 @@
 # pingsweeper
-A simple pingsweeper bash script example while progressing in TCM's course
+A simple pingsweeper bash script example while progressing in TCM's course.
 
 to scan in nmap
 ./ipsweep.sh > <filename>
